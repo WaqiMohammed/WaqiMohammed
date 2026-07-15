@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mohammed Waqi Ahmed 👋
 
-<!--
-**WaqiMohammed/WaqiMohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Graduate (2025)
 
-Here are some ideas to get you started:
+💻 Aspiring Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- React.js
+
+## 🛠️ Technologies & Tools
+- HTML5
+- CSS3
+- JavaScript
+- React (Learning)
+- Git
+- GitHub
+- VS Code
+
+## 📌 Current Goal
+Build responsive, user-friendly web applications and secure an entry-level Frontend Developer role.
+
+## 📫 Connect with Me
+- GitHub: https://github.com/WaqiMohammed
+- LinkedIn: https://linkedin.com/in/waqi-ahmed-mohammed
+- Email: waqimohammed999@gmail.com
