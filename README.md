@@ -7,6 +7,7 @@
 ## 🚀 Currently Learning
 - HTML5
 - CSS3
+- TailWindCSS
 - JavaScript (ES6)
 - React.js
 
