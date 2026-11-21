@@ -14,8 +14,9 @@
 ## 🛠️ Technologies & Tools
 - HTML5
 - CSS3
+- TailWindCSS
 - JavaScript
-- React (Learning)
+- React.js
 - Git
 - GitHub
 - VS Code
